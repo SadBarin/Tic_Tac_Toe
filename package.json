@@ -1,0 +1,23 @@
+{
+  "name": "tic_tac_toe",
+  "version": "0.1.0",
+  "description": "Tic Tac Toe Games",
+  "author": "SadBarin",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react-refresh": "^1.3.1",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.7",
+    "tailwindcss": "^2.0.3",
+    "vite": "^2.0.5"
+  }
+}
